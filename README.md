@@ -1,2 +1,2 @@
-# bca-final-year-project
-Schoolsphere 
+
+School
